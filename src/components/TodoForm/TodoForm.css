@@ -57,6 +57,10 @@
   border: none;
 }
 
+.form__button:active {
+  transform: scale(0.9);
+}
+
 .form__add-button {
   background-color: aqua;
 }
