@@ -36,7 +36,7 @@ export function TodoForm() {
           className='form__textarea'
           placeholder='¡Crea un nuevo TODO!'
           required
-          maxLength='30'
+          maxLength='33'
         />
       </label>
 
