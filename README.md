@@ -1,4 +1,4 @@
-## React TodoList 1.0: https://alayndev.github.io/react-first-todo-list/
+## React TodoList 1.0 : https://alayndev.github.io/react-first-todo-list/
 
 ### Concepts applied:
 
